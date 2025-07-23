@@ -42,6 +42,17 @@ This theme tweak adds a filter bar at the top of the homepage that displays cate
 - WordPress Hooks & Template Tags
 
 ---
+## 🖼️ Demo Screenshots
+
+### 🔌 Floating Share Buttons
+![Share Buttons Demo](./Screenshots/share-buttons-demo.png)
+
+---
+
+### 🧩 Category Filter Homepage
+![Category Filter Demo](./Screenshots/category-filter-demo.png)
+
+---
 
 ## 🙋‍♂️ Author
 
